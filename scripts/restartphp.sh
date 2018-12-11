@@ -1,0 +1,1 @@
+service php7.0-fpm restart > /var/log/restartphp7.0-fpm.out 2>&1
